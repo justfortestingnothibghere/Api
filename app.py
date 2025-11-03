@@ -31,6 +31,20 @@ songs_db = [
         "artist": "The Weeknd",
         "song_url": "https://buenbdkodjrpzsfjsddu.supabase.co/storage/v1/object/public/profiles/music1.mp3",
         "thumbnail_url": "https://buenbdkodjrpzsfjsddu.supabase.co/storage/v1/object/public/profiles/bg.png"
+    },
+    {
+        "id": 3,
+        "title": "Mann Mera ( slowed + reverbed )",
+        "artist": "Gajendra Varma",
+        "song_url": "https://buenbdkodjrpzsfjsddu.supabase.co/storage/v1/object/public/profiles/Fireplace%20-%20Emin%20feat%20Jony%20tiktok%20remix%20%20%20best%20part%20%20%20slowed%20%20reverb.mp3",
+        "thumbnail_url": "https://buenbdkodjrpzsfjsddu.supabase.co/storage/v1/object/public/profiles/maxresdefault.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Darmiyaan Mashup 2024 - Shafqat Amanat Ali, Armaan Malik, Yasser - Sad Chillout",
+        "artist": "Arman Malik | Shafqat Amanat",
+        "song_url": "https://buenbdkodjrpzsfjsddu.supabase.co/storage/v1/object/public/profiles/Darmiyaan%20Mashup%202024%20-%20Shafqat%20Amanat%20Ali,%20Armaan%20Malik,%20Yasser%20-%20Sad%20Chillout%20%20-%20BICKY%20OFFICIAL.mp3",
+        "thumbnail_url": "https://buenbdkodjrpzsfjsddu.supabase.co/storage/v1/object/public/profiles/maxresdefaul.jpg"
     }
 ]
 
